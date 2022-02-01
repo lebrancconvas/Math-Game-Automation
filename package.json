@@ -4,5 +4,9 @@
     "main": "app.js",
     "repository": "https://github.com/lebrancconvas/Math-Game-Automation.git",
     "author": "lebrancconvas <lebrancconvas@gmail.com>",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "nodemon": "^2.0.15",
+        "puppeteer": "^13.1.3"
+    }
 }
